@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova Programação (Colections + Orientação de Objetos)", "Prova Programação (Colections + Orientação de Objetos)\Prova Programação (Colections + Orientação de Objetos).csproj", "{CF5D8A44-0C42-4EBC-8745-43C684053133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trabalho Programação (Colections + Orientação de Objetos)", "Trabalho Programação (Colections + Orientação de Objetos)\Trabalho Programação (Colections + Orientação de Objetos).csproj", "{F3DFD098-74C0-4AA6-B47B-32EDCB118611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF5D8A44-0C42-4EBC-8745-43C684053133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5D8A44-0C42-4EBC-8745-43C684053133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5D8A44-0C42-4EBC-8745-43C684053133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5D8A44-0C42-4EBC-8745-43C684053133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3DFD098-74C0-4AA6-B47B-32EDCB118611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3DFD098-74C0-4AA6-B47B-32EDCB118611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3DFD098-74C0-4AA6-B47B-32EDCB118611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3DFD098-74C0-4AA6-B47B-32EDCB118611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF586E73-A1F6-4F25-AC24-AFA9960C4DA2}
+	EndGlobalSection
+EndGlobal
